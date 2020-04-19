@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ricardo Bigolin Lanfredi</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Clement Vachet</title>
+      <link>/authors/clement-vachet/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/clement-vachet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joyce D Schroeder</title>
+      <link>/authors/joyce-d-schroeder/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joyce-d-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Bigolin Lanfredi</title>
+      <link>/authors/ricardo-bigolin-lanfredi/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ricardo-bigolin-lanfredi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolga Tasdizen</title>
+      <link>/authors/tolga-tasdizen/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tolga-tasdizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehran Javanmardi</title>
+      <link>/authors/mehran-javanmardi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mehran-javanmardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mujdat Cetin</title>
+      <link>/authors/mujdat-cetin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mujdat-cetin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katia Arcaro</title>
+      <link>/authors/katia-arcaro/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/katia-arcaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waldir Leite Roque</title>
+      <link>/authors/waldir-leite-roque/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/waldir-leite-roque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student at the University of Utah researching the intersection of Computer Vision, Deep Learning, and Medical Image Analysis. I am working with &lt;a href=&#34;http://www.sci.utah.edu/~tolga&#34; target=&#34;_blank&#34;&gt;Tolga Tasdizen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

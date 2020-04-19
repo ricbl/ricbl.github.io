@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ricardo Bigolin Lanfredi</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 16:50:07 -0600</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>VR-GAN</title>
+      <link>/project/vr-gan/</link>
+      <pubDate>Sun, 29 Sep 2019 16:50:07 -0600</pubDate>
+      <guid>/project/vr-gan/</guid>
+      <description>&lt;div style=&#34;text-align: justify &#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Project about training explainable regression deep models. We developed a method that uses an adversarial loss to train an explainable regressor, whose outputs are explained by a generator. The generator produces differences maps that can be added to input images to answer the question &#34;What would this image look like if it was associated with this other regression target?&#34;. The algorithm was applied to chest x-rays and regression targets related to the severity of chronic obstructive pulmonary disease (COPD), and the resulting difference maps highlighted regions of the image that radiologists use when identifying the presence of COPD in chest x-rays. This projected will be presented at the MICCAI 2019 main conference in Shenzhen, China, on September 16th. &lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
