@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joyce D Schroeder | Ricardo Bigolin Lanfredi</title>
-    <link>/authors/joyce-d-schroeder/</link>
-      <atom:link href="/authors/joyce-d-schroeder/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joyce D Schroeder</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <title>Vivek Srikumar | Ricardo Bigolin Lanfredi</title>
+    <link>/authors/vivek-srikumar/</link>
+      <atom:link href="/authors/vivek-srikumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vivek Srikumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 16:50:07 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Joyce D Schroeder</title>
-      <link>/authors/joyce-d-schroeder/</link>
+      <title>Vivek Srikumar</title>
+      <link>/authors/vivek-srikumar/</link>
     </image>
-    
-    <item>
-      <title>Interpretation of Disease Evidence for Medical Images Using Adversarial Deformation Fields</title>
-      <link>/publication/lanfredi-2020-flow/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/lanfredi-2020-flow/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Eye-tracking Annotations for Deep Learning Radiology Applications</title>
@@ -33,14 +25,6 @@
 &lt;/ul&gt;
  &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Adversarial regression training for visualizing the progression of chronic obstructive pulmonary disease with chest x-rays</title>
-      <link>/publication/lanfredi-2019-adversarial/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lanfredi-2019-adversarial/</guid>
-      <description></description>
     </item>
     
     <item>

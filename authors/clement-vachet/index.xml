@@ -5,7 +5,7 @@
     <link>/authors/clement-vachet/</link>
       <atom:link href="/authors/clement-vachet/index.xml" rel="self" type="application/rss+xml" />
     <description>Clement Vachet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Clement Vachet</title>
@@ -13,11 +13,35 @@
     </image>
     
     <item>
+      <title>Interpretation of Disease Evidence for Medical Images Using Adversarial Deformation Fields</title>
+      <link>/publication/lanfredi-2020-flow/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lanfredi-2020-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adversarial regression training for visualizing the progression of chronic obstructive pulmonary disease with chest x-rays</title>
       <link>/publication/lanfredi-2019-adversarial/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/lanfredi-2019-adversarial/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>COPD from Chest X-rays</title>
+      <link>/project/copd/</link>
+      <pubDate>Mon, 21 Aug 2017 16:50:07 -0600</pubDate>
+      <guid>/project/copd/</guid>
+      <description>&lt;div style=&#34;text-align: justify &#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; After collecting a dataset of chest x-rays and pulmonary function tests of the same patient within six months of the x-ray, we performed several investigations in terms of automatic medical image assessment and the interpretability of associated models. These investigations include: 
+&lt;ul&gt;
+     &lt;li&gt; modeling the modifications caused by disease severity in the chest x-rays (&lt;a href=&#34;/publication/lanfredi-2019-adversarial/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
+     &lt;li&gt; using deformation fields to model disease effect to find dataset biases (&lt;a href=&#34;/publication/lanfredi-2020-flow/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
+     &lt;li&gt; proposing a mathematical formulation to associate interpretability alignment with adversarial robustness (still unpublished), and &lt;/li&gt;
+     &lt;li&gt; showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (still unpublished).&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+</description>
     </item>
     
   </channel>

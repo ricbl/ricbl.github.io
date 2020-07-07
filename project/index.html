@@ -131,7 +131,7 @@
   <meta property="og:description" content="Personnal website for Ricardo Bigolin Lanfredi"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-09-29T16:50:07-06:00">
+    <meta property="og:updated_time" content="2020-04-01T16:50:07-06:00">
   
 
   
@@ -387,10 +387,19 @@
   
   
   <div>
-    <h2><a href="/project/vr-gan/">VR-GAN</a></h2>
+    <h2><a href="/project/eye/">Eye-tracking Annotations for Deep Learning Radiology Applications</a></h2>
     <div class="article-style">
       
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project about training explainable regression deep models. We developed a method that uses an adversarial loss to train an explainable regressor, whose outputs are explained by a generator. The generator produces differences maps that can be added to input images to answer the question "What would this image look like if it was associated with this other regression target?". The algorithm was applied to chest x-rays and regression targets related to the severity of chronic obstructive pulmonary disease (COPD), and the resulting difference maps highlighted regions of the image that radiologists use when identifying the presence of COPD in chest x-rays.
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project is NIH-funded, starting in 2020, and aims to collect eye-tracking data as a non-intrusive way of providing localization information on labels associated with each x-ray. The data collection will include the audio recording of reports, making the association between region looked and word said at a given moment possible. The project's steps include:  analyzing the alignment between dictation / eye fixations / pupil dilation / bounding box annotations, providing all collected data as an open dataset, and using collected data as supervision for novel deep learning models.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/copd/">COPD from Chest X-rays</a></h2>
+    <div class="article-style">
+      
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After collecting a dataset of chest x-rays and pulmonary function tests of the same patient within six months of the x-ray, we performed several investigations in terms of automatic medical image assessment and the interpretability of associated models. These investigations include:   modeling the modifications caused by disease severity in the chest x-rays (check here),  using deformation fields to model disease effect to find dataset biases (check here),  proposing a mathematical formulation to associate interpretability alignment with adversarial robustness (still unpublished), and   showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (still unpublished).
       
     </div>
   </div>

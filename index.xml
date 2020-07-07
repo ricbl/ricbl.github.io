@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ricardo Bigolin Lanfredi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 16:50:07 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Ricardo Bigolin Lanfredi</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Sun, 29 Sep 2019 16:50:07 -0600</pubDate>
-      <guid>/project/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     

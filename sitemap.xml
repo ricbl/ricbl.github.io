@@ -3,62 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-09-29T16:50:07-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-29T16:50:07-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/vr-gan/</loc>
-    <lastmod>2019-09-29T16:50:07-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/lanfredi-2019-adversarial/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/clement-vachet/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lanfredi-2020-flow/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/joyce-d-schroeder/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ricardo-bigolin-lanfredi/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/tolga-tasdizen/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/eye/</loc>
+    <lastmod>2020-04-01T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-01T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/trafton-drew/</loc>
+    <lastmod>2020-04-01T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vivek-srikumar/</loc>
+    <lastmod>2020-04-01T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lanfredi-2019-adversarial/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,6 +90,26 @@
   <url>
     <loc>/authors/mujdat-cetin/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/copd/</loc>
+    <lastmod>2017-08-21T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-chan/</loc>
+    <lastmod>2017-08-21T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-paine/</loc>
+    <lastmod>2017-08-21T16:50:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tao-li/</loc>
+    <lastmod>2017-08-21T16:50:07-06:00</lastmod>
   </url>
   
   <url>

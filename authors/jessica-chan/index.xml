@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Ricardo Bigolin Lanfredi</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 16:50:07 -0600</lastBuildDate>
+    <title>Jessica Chan | Ricardo Bigolin Lanfredi</title>
+    <link>/authors/jessica-chan/</link>
+      <atom:link href="/authors/jessica-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jessica Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2017 16:50:07 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Jessica Chan</title>
+      <link>/authors/jessica-chan/</link>
     </image>
-    
-    <item>
-      <title>Eye-tracking Annotations for Deep Learning Radiology Applications</title>
-      <link>/project/eye/</link>
-      <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
-      <guid>/project/eye/</guid>
-      <description>&lt;div style=&#34;text-align: justify &#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; This project is NIH-funded, starting in 2020, and aims to collect eye-tracking data as a non-intrusive way of providing localization information on labels associated with each x-ray. The data collection will include the audio recording of reports, making the association between region looked and word said at a given moment possible. The project&#39;s steps include: 
-&lt;ul&gt;
-    &lt;li&gt;analyzing the alignment between dictation / eye fixations / pupil dilation / bounding box annotations,&lt;/li&gt;
-    &lt;li&gt;providing all collected data as an open dataset, and&lt;/li&gt;
-    &lt;li&gt;using collected data as supervision for novel deep learning models.&lt;/li&gt;
-&lt;/ul&gt;
- &lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>COPD from Chest X-rays</title>
