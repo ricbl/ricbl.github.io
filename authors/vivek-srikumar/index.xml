@@ -5,7 +5,7 @@
     <link>/authors/vivek-srikumar/</link>
       <atom:link href="/authors/vivek-srikumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Vivek Srikumar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 16:50:07 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Vivek Srikumar</title>
@@ -13,16 +13,25 @@
     </image>
     
     <item>
+      <title>Prediction of Obstructive Lung Disease from Chest Radiographs via Deep Learning Trained on Pulmonary Function Data</title>
+      <link>/publication/schroeder-2021-copd/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2021-copd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eye-tracking Annotations for Deep Learning Radiology Applications</title>
       <link>/project/eye/</link>
       <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
       <guid>/project/eye/</guid>
-      <description>&lt;div style=&#34;text-align: justify &#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; This project is NIH-funded, starting in 2020, and aims to collect eye-tracking data as a non-intrusive way of providing localization information on labels associated with each x-ray. The data collection will include the audio recording of reports, making the association between region looked and word said at a given moment possible. The project&#39;s steps include: 
+      <description>&lt;div style=&#34;text-align: justify &#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; This project is NIH-funded, started in 2020, and aims to collect eye-tracking data as a non-intrusive way of providing localization information on labels associated with each chest x-ray. The data collection will include timestamped transcriptions of the dictations o radiological reports, making the association between region looked and word said at a given moment possible. The project&#39;s steps include: 
 &lt;ul&gt;
-    &lt;li&gt;analyzing the alignment between dictation / eye fixations / pupil dilation / bounding box annotations,&lt;/li&gt;
-    &lt;li&gt;providing all collected data as an open dataset, and&lt;/li&gt;
+    &lt;li&gt;providing all collected data as an open dataset,&lt;/li&gt;
+    &lt;li&gt;evaluating interpretability methods for deep learning methods when compared to the attention from radiologists, and&lt;/li&gt;
     &lt;li&gt;using collected data as supervision for novel deep learning models.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;https://www.sci.utah.edu/eyetracking-cxr.html&#34;&gt;Project Homepage&lt;/a&gt;
  &lt;/div&gt;
 </description>
     </item>
@@ -36,8 +45,8 @@
 &lt;ul&gt;
      &lt;li&gt; modeling the modifications caused by disease severity in the chest x-rays (&lt;a href=&#34;/publication/lanfredi-2019-adversarial/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
      &lt;li&gt; using deformation fields to model disease effect to find dataset biases (&lt;a href=&#34;/publication/lanfredi-2020-flow/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
-     &lt;li&gt; proposing a mathematical formulation to associate interpretability alignment with adversarial robustness (still unpublished), and &lt;/li&gt;
-     &lt;li&gt; showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (still unpublished).&lt;/li&gt;
+     &lt;li&gt; proposing a mathematical formulation to associate interpretability alignment with adversarial robustness, and &lt;/li&gt;
+     &lt;li&gt; showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (&lt;a href=&#34;/publication/schroeder-2021-copd/&#34;&gt;check here&lt;/a&gt;).&lt;/li&gt;
  &lt;/ul&gt;
  &lt;/div&gt;
 </description>

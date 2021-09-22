@@ -5,12 +5,20 @@
     <link>/authors/tao-li/</link>
       <atom:link href="/authors/tao-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2017 16:50:07 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tao Li</title>
       <link>/authors/tao-li/</link>
     </image>
+    
+    <item>
+      <title>Prediction of Obstructive Lung Disease from Chest Radiographs via Deep Learning Trained on Pulmonary Function Data</title>
+      <link>/publication/schroeder-2021-copd/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2021-copd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COPD from Chest X-rays</title>
@@ -21,8 +29,8 @@
 &lt;ul&gt;
      &lt;li&gt; modeling the modifications caused by disease severity in the chest x-rays (&lt;a href=&#34;/publication/lanfredi-2019-adversarial/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
      &lt;li&gt; using deformation fields to model disease effect to find dataset biases (&lt;a href=&#34;/publication/lanfredi-2020-flow/&#34;&gt;check here&lt;/a&gt;),&lt;/li&gt;
-     &lt;li&gt; proposing a mathematical formulation to associate interpretability alignment with adversarial robustness (still unpublished), and &lt;/li&gt;
-     &lt;li&gt; showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (still unpublished).&lt;/li&gt;
+     &lt;li&gt; proposing a mathematical formulation to associate interpretability alignment with adversarial robustness, and &lt;/li&gt;
+     &lt;li&gt; showing that the chest x-rays provide more information about COPD diagnosis than radiologist reports (&lt;a href=&#34;/publication/schroeder-2021-copd/&#34;&gt;check here&lt;/a&gt;).&lt;/li&gt;
  &lt;/ul&gt;
  &lt;/div&gt;
 </description>

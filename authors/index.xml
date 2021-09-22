@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Clement Vachet</title>
       <link>/authors/clement-vachet/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/clement-vachet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Chan</title>
+      <link>/authors/jessica-chan/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jessica-chan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joyce D Schroeder</title>
       <link>/authors/joyce-d-schroeder/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/joyce-d-schroeder/</guid>
       <description></description>
     </item>
@@ -31,16 +39,56 @@
     <item>
       <title>Ricardo Bigolin Lanfredi</title>
       <link>/authors/ricardo-bigolin-lanfredi/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/ricardo-bigolin-lanfredi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Paine</title>
+      <link>/authors/robert-paine/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-paine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Li</title>
+      <link>/authors/tao-li/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/tao-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tolga Tasdizen</title>
       <link>/authors/tolga-tasdizen/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/tolga-tasdizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivek Srikumar</title>
+      <link>/authors/vivek-srikumar/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/vivek-srikumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingyuan Zhang</title>
+      <link>/authors/mingyuan-zhang/</link>
+      <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
+      <guid>/authors/mingyuan-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phuong-Anh T. Duong</title>
+      <link>/authors/phuong-anh-t.-duong/</link>
+      <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
+      <guid>/authors/phuong-anh-t.-duong/</guid>
       <description></description>
     </item>
     
@@ -53,10 +101,10 @@
     </item>
     
     <item>
-      <title>Vivek Srikumar</title>
-      <link>/authors/vivek-srikumar/</link>
+      <title>William F Auffermann</title>
+      <link>/authors/william-f-auffermann/</link>
       <pubDate>Wed, 01 Apr 2020 16:50:07 -0600</pubDate>
-      <guid>/authors/vivek-srikumar/</guid>
+      <guid>/authors/william-f-auffermann/</guid>
       <description></description>
     </item>
     
@@ -73,30 +121,6 @@
       <link>/authors/mujdat-cetin/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/mujdat-cetin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jessica Chan</title>
-      <link>/authors/jessica-chan/</link>
-      <pubDate>Mon, 21 Aug 2017 16:50:07 -0600</pubDate>
-      <guid>/authors/jessica-chan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Paine</title>
-      <link>/authors/robert-paine/</link>
-      <pubDate>Mon, 21 Aug 2017 16:50:07 -0600</pubDate>
-      <guid>/authors/robert-paine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tao Li</title>
-      <link>/authors/tao-li/</link>
-      <pubDate>Mon, 21 Aug 2017 16:50:07 -0600</pubDate>
-      <guid>/authors/tao-li/</guid>
       <description></description>
     </item>
     
